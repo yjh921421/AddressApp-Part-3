@@ -16,6 +16,7 @@ import javafx.beans.property.StringProperty;
  */
 public class Person {
 
+    //change by me !
     private final StringProperty firstName;
     private final StringProperty lastName;
     private final StringProperty street;
